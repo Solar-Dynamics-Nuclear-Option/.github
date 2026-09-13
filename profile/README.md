@@ -12,7 +12,7 @@
 ### Manual
 
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx).
-2. Download the latest release from the [Releases](https://github.com/Solar-Dynamics-Nuclear-Option/Template-Project/releases) page.
+2. Download the latest release from the `Releases` page for a mod.
    1. For normal use, it is recommended to use the standard `<name>-<version>.dll` build.
    2. For debugging, it is recommended to use the `<name>-<version>-Debug.dll` build.
 3. Put the DLL in your plugins folder:
